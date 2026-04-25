@@ -40,8 +40,8 @@ Stage Runner is a mobile application designed to help competitive shooters plan 
 ![Desktop Main](screenshots/appdevtest.png)
 
 ### Mobile View
-![Mobile View](screenshots/appmobile1.png)
-![Mobile View](screenshots/appmobile2.png)
+![Mobile View](screenshots/appmobile1.jpg)
+![Mobile View](screenshots/appmobile2.jpg)
 
 ---
 
