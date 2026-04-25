@@ -2,7 +2,7 @@
 
 ## Overview
 
-Stage Runner is a mobile application designed to help competitive shooters plan and optimize stage performance. The app allows users to visualize scoring efficiency, compare strategies, and improve hit factor outcomes.
+Stage Runner is a mobile application designed to help competitive shooters plan and optimize stage performance. The app allows users to visualize scoring efficiency, compare strategies, and improve hit factor outcomes. This project demonstrates practical problem-solving, UI design, and application development alongside system administration skills.
 
 ---
 
